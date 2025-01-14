@@ -50,7 +50,7 @@ def generate_random_number():
                 "success": False,
                 "message": "Validations errors",
                 "errors": form.errors
-            }, 409)
+            }, 400)
     
     except Exception as e:
         logger.error(e, exc_info=True)
