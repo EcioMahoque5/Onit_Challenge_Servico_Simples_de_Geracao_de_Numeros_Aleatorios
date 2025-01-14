@@ -135,4 +135,4 @@ Esta aplicação é uma API desenvolvida em Flask que gera números aleatórios 
 ## Demonstração
 
 - **Local**: `http://127.0.0.1:5000/api/generate_random_number`
-- **Hospedado**: 
+- **Hospedado**: `https://geracao-de-numeros-aleatorios-ecio.onrender.com/api/generate_random_number`
